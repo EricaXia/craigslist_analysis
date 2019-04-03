@@ -1,2 +1,1 @@
-# Analysis of Craigslist Housing Data
-Analysis and report of Craigslist Housing Data pulled from California listings
+# Exploratory Data Analysis of Craigslist Housing Data from California
