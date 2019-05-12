@@ -1,6 +1,10 @@
 # Exploratory Data Analysis (EDA) of Craigslist Housing Data 
 
-![apartments](https://github.com/EricaXia/craigslist_analysis/blob/main_code/img/apartment.jpg)
+![apartments](https://github.com/EricaXia/craigslist_analysis/blob/main_code/img/apartment.jpg =300x400)
+
+**[Click for part one of the full analysis report](writeup.pdf)**
+<br>
+**[Click for part two of the full analysis report](writeup2.pdf)**
 
 ### I) Introduction
 
@@ -22,6 +26,4 @@ The postings span from 2018-09-08 to 2018-10-15, about one month. The time serie
 
 ![graph1](https://github.com/EricaXia/craigslist_analysis/blob/main_code/img/s1.PNG)
 
-**[Click for part one of the full analysis report](writeup.pdf)**
-<br>
-**[Click for part two of the full analysis report](writeup2.pdf)**
+
