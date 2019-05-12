@@ -1,5 +1,7 @@
 # Exploratory Data Analysis (EDA) of Craigslist Housing Data 
 
+![apartments](https://github.com/EricaXia/craigslist_analysis/blob/main_code/apartment.jpg)
+
 ### I) Introduction
 
 Craigslist is a website for posting local classified advertisements with the purpose of allowing easy postings of various subjects including housing rentals. Postings are grouped by location for easy access. This report cleans, organizes, and analyzes a messy dataset of Craigslist apartment postings in California. The aim of this report is to extract meaningful features from the initially unorganized data and analyze to draw conclusions about the apartments. The data was downloaded from the Craigslist website in a .txt file format. Data extraction and analysis is performed in R and Rstudio.
