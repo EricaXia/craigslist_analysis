@@ -1,6 +1,6 @@
 # Exploratory Data Analysis (EDA) of Craigslist Housing Data 
 
-![apartments](https://github.com/EricaXia/craigslist_analysis/blob/main_code/img/apartment.jpg =300x400)
+![apartments](https://github.com/EricaXia/craigslist_analysis/blob/main_code/img/apartment.jpg)
 
 **[Click for part one of the full analysis report](writeup.pdf)**
 <br>
