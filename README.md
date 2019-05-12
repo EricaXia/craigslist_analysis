@@ -20,4 +20,4 @@ Quality of data is important for running accurate analyses. After taking a preli
 
 The postings span from 2018-09-08 to 2018-10-15, about one month. The time series bar plot shows most ads were posted near the end of the time period in mid-October. Locations of postings are mostly in California, from larger cities to smaller towns. The plot shows the five locations with the most postings are San Francicso, Los Angeles, San Diego, San Jose, and Sacramento.
 
-![graph1](https://github.com/EricaXia/craigslist_analysis/blob/main_code/img/s1.png)
+![graph1](https://github.com/EricaXia/craigslist_analysis/blob/main_code/img/s1.PNG)
