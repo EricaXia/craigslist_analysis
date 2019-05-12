@@ -22,4 +22,4 @@ The postings span from 2018-09-08 to 2018-10-15, about one month. The time serie
 
 ![graph1](https://github.com/EricaXia/craigslist_analysis/blob/main_code/img/s1.PNG)
 
-####[See here for full report (part one) of the analysis](https://github.com/EricaXia/craigslist_analysis/blob/main_code/writeup.pdf)
+[Click for part one of the full analysis report](https://github.com/EricaXia/craigslist_analysis/blob/main_code/writeup.pdf)
